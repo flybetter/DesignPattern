@@ -12,4 +12,7 @@ public class Apple {
     public void setAppleProvier(String appleProvier) {
         this.appleProvier = appleProvier;
     }
+
 }
+
+
