@@ -1,4 +1,4 @@
-package oldpackage.demo;
+package bigtalkdesignpattern.enumdemo;
 
 public enum Days2 {
 
